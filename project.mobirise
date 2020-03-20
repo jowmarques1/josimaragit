@@ -68,11 +68,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Dra. Josimara Ullian",
+        "meta_descr": "Dentista renomada em São Paulo Capital. Agende uma consulta agora mesmo.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/josiullian-png.png"
       },
       "components": [
         {
